@@ -1,0 +1,28 @@
+{
+  "sampleMealPlans": [
+    {
+      "goal": "bulking",
+      "diet": "vegetarian",
+      "calories": 2600,
+      "protein": 140
+    },
+    {
+      "goal": "bulking",
+      "diet": "non_vegetarian",
+      "calories": 2700,
+      "protein": 150
+    },
+    {
+      "goal": "fat_loss",
+      "diet": "vegetarian",
+      "calories": 1900,
+      "protein": 130
+    },
+    {
+      "goal": "muscle_build",
+      "diet": "non_vegetarian",
+      "calories": 2300,
+      "protein": 160
+    }
+  ]
+}

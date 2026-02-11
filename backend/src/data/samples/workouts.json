@@ -1,0 +1,16 @@
+{
+  "sampleWorkoutPlans": [
+    {
+      "goal": "fat_loss",
+      "experience": "beginner",
+      "daysPerWeek": 3,
+      "focusSplit": ["Full body", "Upper body", "Lower body"]
+    },
+    {
+      "goal": "bulking",
+      "experience": "intermediate",
+      "daysPerWeek": 5,
+      "focusSplit": ["Push", "Pull", "Legs", "Upper", "Lower"]
+    }
+  ]
+}
